@@ -1,4 +1,4 @@
-import {Dimensions} from 'react-native';
+import { Dimensions } from 'react-native';
 
 export default {
   MAX_WIDTH: Dimensions.get('screen').width,

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>294530260545-flin35itedqotv4f99vf7cc54qtc5rdq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.294530260545-flin35itedqotv4f99vf7cc54qtc5rdq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDq_-CiiIXXz_JqqU-ORCT63ZQxGTk0B1g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>294530260545</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.strongberg.agame</string>
+	<key>PROJECT_ID</key>
+	<string>a-game-ed715</string>
+	<key>STORAGE_BUCKET</key>
+	<string>a-game-ed715.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:294530260545:ios:0a7c7bf9544788fdc3f0c0</string>
+</dict>
+</plist>
